@@ -11,6 +11,6 @@ WORKDIR /root/TojiMd
 
 COPY ./root/TojiMd
 
-RUN yarn install
+RUN npm install
 
 CMD ["node", "index.js"]
