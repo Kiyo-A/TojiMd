@@ -1,8 +1,8 @@
-# Use the official Node.js 16 image as a base image
-FROM node:16
+FROM quay.io/gurusensei/gurubhay:latest
 
-# Set the working directory inside the container
-WORKDIR /app
+RUN git clone https://github.com/Johanlieb34/TojiMd/root/index
+
+WORKDIR /root/index/
 
 # Copy package.json and package-lock.json files to the container
 COPY package*.json ./
