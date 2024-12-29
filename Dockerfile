@@ -13,7 +13,7 @@ COPY package.json .
   
 RUN git clone https://github.com/Johanlieb34/TojiMd
 
-RUN yarn install 
+RUN npm install 
 
 COPY . .
 
