@@ -54,4 +54,5 @@ Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
 
 ![Forks](https://img.shields.io/github/forks/Johanlieb34/TojiMd?style=social)
 
-
+#### ```KING JOHAN PROFILE VIEWS 👑```
+![Visitor Count](https://profile-counter.glitch.me/Johanlieb34/count.svg)
