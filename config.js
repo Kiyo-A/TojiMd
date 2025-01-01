@@ -69,16 +69,16 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = process.env.BOTNAME
+global.botname = 
 global.premium = 'true'
-global.packname = 'silva'
-global.author = 'silva'
+global.packname = 'King'
+global.author = 'King'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
-global.fgsc = 'https://github.com/SilvaTechB/silva-md-bot'
-global.fgyt = 'https://youtube.com/@silvaedits254'
-global.fgpyp = 'https://youtube.com/@silvaedits254'
+global.fgsc = ''
+global.fgyt = ''
+global.fgpyp = ''
 global.fglog = ''
 global.thumb = fs.readFileSync('./jusorts/sylivanus.jpg')
 
